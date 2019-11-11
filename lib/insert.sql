@@ -1,8 +1,8 @@
-insert into bears (name, age, gender, color, temperament, alive) values 
-insert into bears (name, age, gender, color, temperament, alive) values 
-insert into bears (name, age, gender, color, temperament, alive) values 
-insert into bears (name, age, gender, color, temperament, alive) values 
-insert into bears (name, age, gender, color, temperament, alive) values 
-insert into bears (name, age, gender, color, temperament, alive) values 
-insert into bears (name, age, gender, color, temperament, alive) values 
-insert into bears (name, age, gender, color, temperament, alive) values 
+insert into bears (name, age, gender, color, temperament, alive) values ("Mr. Chocolate", 5, male, black, calm, true)
+insert into bears (name, age, gender, color, temperament, alive) values ("Rowdy")
+insert into bears (name, age, gender, color, temperament, alive) values ("Tabitha")
+insert into bears (name, age, gender, color, temperament, alive) values ("Sergeant Brown")
+insert into bears (name, age, gender, color, temperament, alive) values ("Melissa")
+insert into bears (name, age, gender, color, temperament, alive) values ("Grinch")
+insert into bears (name, age, gender, color, temperament, alive) values ("Wendy")
+insert into bears (name, age, gender, color, temperament, alive) values (NULL,)
