@@ -6,4 +6,4 @@ INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES
 (5,"Melissa", 2, 'F', 'black', 'calm', 1)
 (6,"Grinch", 4, 'M', 'green', 'feral', 0)
 (7,"Wendy", 5, 'F', 'black', 'territorial', 0)
-(8,NULL, 1, 'F', 'black', 'shy', 1)
+(8,NULL, 1, 'F', 'black', 'shy', 1);
